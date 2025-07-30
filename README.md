@@ -12,6 +12,6 @@ node index.js <inputDir> <outputDir>
 ### Example
 
 ```cli
-node index.mjs ./images ./webp-images
+node index.js ./images ./webp-images
 ```
 
